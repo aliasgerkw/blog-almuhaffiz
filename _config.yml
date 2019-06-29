@@ -21,7 +21,7 @@ description: >
 baseurl: "/blog-almuhaffiz" # the subpath of your site, e.g. /blog/
 url: "https://aliasgerkw.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
-logo: "/assets/almuhaffiz-logo.webp"
+logo: "/assets/logo.png"
 
 # Build settings
 markdown: kramdown
