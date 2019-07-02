@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Al Muhaffiz</title>
+    <description>Al-Muhaffiz's features are exclusively designed for Hifz Al Quran.
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 02 Jul 2019 18:35:39 +0530</pubDate>
+    <lastBuildDate>Tue, 02 Jul 2019 18:35:39 +0530</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Features</title>
+        <description>
+&lt;hr /&gt;
+&lt;p&gt;layout: post
+title:  Features
+date:   2019-07-01 08:43:59
+author: Mahad ud Zahra Publication
+—&lt;/p&gt;
+
+&lt;p&gt;Features:&lt;br /&gt;
+• Shz. Husain B.S, Al-Hussary, Al-Minshawi audio &lt;br /&gt;
+• Mushaf Al Tajweed, Khazain Ma’ani Quran pages &lt;br /&gt;
+• A-B audio repeat • Audio playback speed control &lt;br /&gt;
+• Auto page turn for recitation &lt;br /&gt;
+• Modular downloads by page, surah, juzz or all juzz &lt;br /&gt;
+• Highlight mode for marking errors &lt;br /&gt;
+• Hifz Guide &lt;br /&gt;
+• Hifz Dua &lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Jul 2019 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2019/07/01/features.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/07/01/features.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
