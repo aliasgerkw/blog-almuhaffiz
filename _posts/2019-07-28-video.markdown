@@ -6,4 +6,4 @@ author: Mahad ud Zahra Publication
 ---
 
 Video features on how to use Al Muhaffiz Mobile application:<br>
-https://www.youtube.com/watch?v=RP1f5fMOKK8
+<a href="https://www.youtube.com/watch?v=RP1f5fMOKK8" target="_blank">https://www.youtube.com/watch?v=RP1f5fMOKK8</a>
